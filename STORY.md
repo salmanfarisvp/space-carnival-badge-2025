@@ -137,9 +137,29 @@ That works out to about **₹39 per board** (₹11,790 over the 300 boards deliv
 
 ---
 
-## Lessons for the next badge
+## Lessons learned
 
-- **Print it 1:1 first.** A paper printout and the real parts on top catch sizing mistakes for free.
-- **Order early, or plan for a rush order.** Fab and shipping time is usually the tightest part of an event badge.
+The schedule was tight, so the top priority was simple: **get the badge designed, fabricated and into people's hands in time for the Carnival.** That meant some things we would normally do got left out.
+
+### What worked
+
+- **Print it 1:1 first.** A paper printout with the real parts on top catches sizing mistakes for free.
 - **Make kitting a community event.** A one-part-per-person line is quick, and it gets more people involved in the badge.
 - **Keep the circuit simple.** Two LEDs and a coin cell are easy for first-timers to solder and hard to get wrong.
+
+### What we missed, and would do next time
+
+- **No power switch.** There's no button or switch, so once a cell is in, the LEDs stay on until the battery drains. The only way to turn the badge off is to pop the cell out. Next revision: add a small slide switch or a tactile button.
+- **No panelization.** The boards were ordered as single 40 × 40 mm pieces. Panelizing them, with several badges per panel joined by V-cuts or mouse-bites, would have lowered the per-board cost and made kitting and handling faster.
+- **Plan earlier.** Ordering earlier would have avoided the rush order and left time for a proper prototype round before the full run.
+
+---
+
+## Thank you
+
+A huge thank you to the **TinkerSpace community members** who helped and motivated this project. Everyone was super supportive throughout the whole process, from the first paper printout and the kitting line to the soldering table at the Carnival.
+
+Thanks as well to **TinkerHub** for sponsoring the PCBs and **MakerGram** for sponsoring the components.
+
+> I'm so proud and happy every time I see someone wearing the badge and using it. 💙
+> — Salman Faris

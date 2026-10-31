@@ -60,7 +60,7 @@ This badge was designed for that event, as a wearable keepsake and a small, frie
 | Lanyard hole | Ø 5.0 mm, top corner |
 | Trace width | 1.0 mm |
 | Power | 1 × CR2032 (3 V lithium coin cell) |
-| Revision | v0.1 (2025) |
+| Revision | v0.1 (2025). No power switch: remove the cell to turn it off. See [lessons learned](STORY.md#lessons-learned) |
 | Quantity made | 300 (255 ordered, 300 delivered) |
 | Fabricated by | [Lion Circuits](https://www.lioncircuits.com) (rush order) |
 | Cost | ≈ ₹52 per badge; ₹15,462 total ([breakdown](STORY.md#6-what-it-cost-and-who-sponsored-it)) |
@@ -136,6 +136,7 @@ hardware/
 
 - Badge design: Salman Faris (`0xSalFar`)
 - Made for the TinkerSpace community, Kochi
+- Thanks to all the TinkerSpace community members who helped and motivated this project (see [STORY.md](STORY.md#thank-you))
 - Kitted by TinkerSpace community volunteers (see [STORY.md](STORY.md))
 - PCBs fabricated by [Lion Circuits](https://www.lioncircuits.com), **sponsored by [TinkerHub](https://tinkerhub.org)**
 - Components **sponsored by [MakerGram](https://makergram.com)**: holders from [FlyRobo](https://www.flyrobo.in), LEDs from New Digital Electronics, Nilambur
