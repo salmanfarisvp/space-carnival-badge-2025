@@ -62,10 +62,6 @@ It was faster, it was more fun, and everyone who helped had a hand in every badg
   <sub>Time-lapse of the kitting line: each person adds one part, and a complete kit comes out at the end. <a href="docs/story/kitting-time-lapse.mp4">Watch the full-quality MP4</a></sub>
 </p>
 
-| The line in action | Factory-style setup |
-|---|---|
-| ![Volunteers around the table packing kits](docs/story/09-kitting-line.jpg) | ![Wider view of the kitting tables](docs/story/10-kitting-line-wide.jpg) |
-
 The result was a box full of ready-to-build kits. Each bag holds a PCB, two LEDs, the coin-cell holder, a CR2032 and an instruction card:
 
 <p align="center"><img src="docs/story/14-finished-kits.jpg" alt="Box full of finished badge kits in zip bags" width="420"></p>
