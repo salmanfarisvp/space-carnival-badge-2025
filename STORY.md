@@ -29,7 +29,9 @@ It's the cheapest prototype there is, and it catches the most expensive mistakes
 
 ## 3. Rush order from Lion Circuits
 
-With the size confirmed, on **9 December 2025** we placed a **rush order for 255 PCBs** with [Lion Circuits](https://www.lioncircuits.com), an Indian PCB fab in Bengaluru, so the boards would arrive in time for the Carnival. The boards arrived on **20 December 2025**, just 11 days later and on the **opening day of the Carnival** itself. Lion Circuits delivered **300 boards**. The PCBs were sponsored by **TinkerHub** (see [what it cost](#6-what-it-cost-and-who-sponsored-it)).
+With the size confirmed, on **9 December 2025** we placed a **rush order for 255 PCBs** with [Lion Circuits](https://www.lioncircuits.com), an Indian PCB fab in Bengaluru, so the boards would arrive in time for the Carnival. We also called Lion Circuits and asked them to push it through as fast as possible, and they agreed. **Thank you, Lion Circuits!** They delivered **300 boards**.
+
+It went right down to the wire. The package reached Kochi on **20 December 2025**, the **opening day of the Carnival**. Rather than wait for the courier to deliver it, we **went to the Blue Dart office in person** and collected it ourselves, so we had the boards in hand by **noon on day 1**. The PCBs were sponsored by **TinkerHub** (see [what it cost](#6-what-it-cost-and-who-sponsored-it)).
 
 | Delivery | Unboxing |
 |---|---|
@@ -47,13 +49,13 @@ The parts were sponsored by **MakerGram**: CR2032 cells from RX Electronics, Koc
 
 ## 4. Kitting with the community, factory style
 
-300 kits is a lot of tiny parts. Instead of packing them alone, we turned it into a **community build session** at TinkerSpace, set up like a small factory line:
+With the boards in hand at noon, there was no time to lose. That **same afternoon**, on day 1 of the Carnival, we packed the kits together with **makers from the Carnival**. 300 kits is a lot of tiny parts, so instead of packing them alone, we turned it into a **community build session** at TinkerSpace, set up like a small factory line:
 
 1. **Briefing:** everyone gathered to go over the kit contents and how the line would run.
 2. **Assembly line:** volunteers sat around the table, and **each person added one part to the kit**: a PCB, the LEDs, the coin-cell holder, a CR2032.
 3. **Done:** each bag moved down the table, and what came off the end was a **complete kit**.
 
-It was faster, it was more fun, and everyone who helped had a hand in every badge.
+It was faster, it was more fun, and everyone who helped had a hand in every badge. **A big thanks to all the makers who jumped in on day 1 and made it happen.**
 
 ![Community briefing before the kitting session](docs/story/08-team-briefing.jpg)
 
@@ -68,7 +70,12 @@ The result was a box full of ready-to-build kits. Each bag holds a PCB, two LEDs
 
 ## 5. Assembling the badges at the Carnival
 
-The [Space Carnival](https://tinkerhub.org/events/SIE69TMDOS/space-carnival) ran on **20–21 December 2025** (9 AM–6 PM) at TinkerSpace. At the Carnival, people brought their kits to the soldering station and assembled their own badges: two LEDs on the front, the coin-cell holder on the back, a CR2032 in, and the badge lights up. For many it was their first time soldering.
+The [Space Carnival](https://tinkerhub.org/events/SIE69TMDOS/space-carnival) ran on **20–21 December 2025** (9 AM–6 PM) at TinkerSpace.
+
+- **Day 1, night: test run.** We held a test soldering session as part of the **Intro to Hardware** session, to try out the kit and the build steps with real people before opening it up to everyone.
+- **Day 2, morning: open soldering station.** We set up a soldering station at the front of the space. **Anyone could walk in, solder a badge and take their kit home.**
+
+At the station, people assembled their own badges: two LEDs on the front, the coin-cell holder on the back, a CR2032 in, and the badge lights up. For many it was their first time soldering.
 
 <p align="center">
   <img src="docs/story/soldering-at-carnival.gif" alt="People assembling their badges at the Carnival soldering station" width="300"><br>
@@ -147,9 +154,10 @@ That works out to about **₹39 per board** (₹11,790 over the 300 boards deliv
 | Design | Schematic and PCB in EasyEDA (early Dec 2025) |
 | Verify | **9 Dec 2025**: 1:1 paper printout to check board, cell and holder size |
 | Order | **9 Dec 2025**: rush order of 255 PCBs placed with Lion Circuits |
-| Delivery | **20 Dec 2025**: **300 boards** delivered, 11 days after ordering and on the Carnival's opening day |
-| Kit | Community, factory-style kitting line at TinkerSpace: 300 complete kits |
-| Build | **20–21 Dec 2025**: attendees assembled their badges at the Carnival soldering station |
+| Delivery | **20 Dec 2025, noon** (Carnival day 1): **300 boards** collected in person from the Blue Dart office |
+| Kit | **20 Dec, afternoon**: 300 kits packed on a factory-style line with makers from the Carnival |
+| Test | **20 Dec, night**: test soldering session during the *Intro to Hardware* session |
+| Build | **21 Dec, from morning**: walk-in soldering station at the front of the space; anyone could solder a badge |
 | Cost | ₹15,642 in total: PCBs ₹11,790 (TinkerHub), parts ₹3,852 (MakerGram) |
 
 ---
@@ -168,7 +176,7 @@ The schedule was tight, so the top priority was simple: **get the badge designed
 
 - **No power switch.** The community is always on ([see why](#why-theres-no-off-switch) 😄), but practically, once a cell is in, the LEDs run until the battery drains, and the only way to turn the badge off is to pop the cell out. A small slide switch or a tactile button would be a nice addition in the next revision.
 - **No panelization.** The boards were ordered as single 40 × 40 mm pieces. Panelizing them, with several badges per panel joined by V-cuts or mouse-bites, would have lowered the per-board cost and made kitting and handling faster.
-- **Plan earlier.** Ordering earlier would have avoided the rush order and left time for a proper prototype round before the full run.
+- **Plan earlier.** The boards arrived at noon on the opening day, and that only worked because Lion Circuits rushed the order and we collected the package from Blue Dart ourselves. Ordering earlier would have avoided the stress and left time for a proper prototype round before the full run.
 
 ---
 
@@ -176,7 +184,7 @@ The schedule was tight, so the top priority was simple: **get the badge designed
 
 A huge thank you to the **TinkerSpace community members** who helped and motivated this project. Everyone was super supportive throughout the whole process, from the first paper printout and the kitting line to the soldering table at the Carnival.
 
-Thanks as well to **TinkerHub** for sponsoring the PCBs and **MakerGram** for sponsoring the components.
+Thanks as well to **TinkerHub** for sponsoring the PCBs, **MakerGram** for sponsoring the components, **Lion Circuits** for agreeing to rush the order, and all the **makers at the Carnival** who packed 300 kits on day 1 afternoon.
 
 > I'm so proud and happy every time I see someone wearing the badge and using it. 💙
 > — Salman Faris

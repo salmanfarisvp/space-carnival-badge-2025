@@ -64,7 +64,7 @@ This badge was designed for that event, as a wearable keepsake and a small, frie
 | Power | 1 × CR2032 (3 V lithium coin cell) |
 | Revision | v0.1 (2025). No power switch, because the community is always on ([why](STORY.md#why-theres-no-off-switch)); remove the cell to turn it off |
 | Quantity made | 300 (255 ordered, 300 delivered) |
-| Fabricated by | [Lion Circuits](https://www.lioncircuits.com) (rush order: placed 9 Dec 2025, delivered 20 Dec 2025) |
+| Fabricated by | [Lion Circuits](https://www.lioncircuits.com) (rush order: placed 9 Dec 2025, collected at noon on 20 Dec 2025, the Carnival's opening day) |
 | Cost | ≈ ₹52 per badge; ₹15,642 total ([breakdown](STORY.md#6-what-it-cost-and-who-sponsored-it)) |
 | Sponsors | PCBs by [TinkerHub](https://tinkerhub.org), components by [MakerGram](https://makergram.com) |
 | EDA tool | EasyEDA Standard |
@@ -146,7 +146,8 @@ hardware/
 - Badge design: Salman Faris (`0xSalFar`)
 - Made for the TinkerSpace community, Kochi
 - Thanks to all the TinkerSpace community members who helped and motivated this project (see [STORY.md](STORY.md#thank-you))
-- Kitted by TinkerSpace community volunteers (see [STORY.md](STORY.md))
+- Kitted by makers at the Carnival on day 1 afternoon (see [STORY.md](STORY.md#4-kitting-with-the-community-factory-style))
+- Thanks to Lion Circuits for rushing the order so the boards made it on time
 - PCBs fabricated by [Lion Circuits](https://www.lioncircuits.com), **sponsored by [TinkerHub](https://tinkerhub.org)**
 - Components **sponsored by [MakerGram](https://makergram.com)**: CR2032 cells from RX Electronics, Kochi, holders from [FlyRobo](https://www.flyrobo.in), LEDs from New Digital Electronics, Nilambur
 - Logos on the board belong to their respective communities (TinkerHub, TinkerSpace, MakerGram)
