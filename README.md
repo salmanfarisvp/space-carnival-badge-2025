@@ -143,7 +143,7 @@ hardware/
 
 ## Credits
 
-- Badge design: Salman Faris (`0xSalFar`)
+- Badge design: **Salman Faris** ([@salmanfarisvp](https://github.com/salmanfarisvp)). That's the `0xSalFar` on the back of the board, and the author of this repo.
 - Made for the TinkerSpace community, Kochi
 - Thanks to all the TinkerSpace community members who helped and motivated this project (see [STORY.md](STORY.md#thank-you))
 - Kitted by makers at the Carnival on day 1 afternoon (see [STORY.md](STORY.md#4-kitting-with-the-community-factory-style))

@@ -185,4 +185,4 @@ A huge thank you to the **TinkerSpace community members** who helped and motivat
 Thanks as well to **TinkerHub** for sponsoring the PCBs, **MakerGram** for sponsoring the components, **Lion Circuits** for agreeing to rush the order, and all the **makers at the Carnival** who packed 300 kits on day 1 afternoon.
 
 > I'm so proud and happy every time I see someone wearing the badge and using it. 💙
-> — Salman Faris
+> — Salman Faris ([@salmanfarisvp](https://github.com/salmanfarisvp)), badge designer
