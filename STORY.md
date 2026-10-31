@@ -57,13 +57,27 @@ It was faster, it was more fun, and everyone who helped had a hand in every badg
 
 ![Community briefing before the kitting session](docs/story/08-team-briefing.jpg)
 
+<p align="center">
+  <img src="docs/story/kitting-time-lapse.gif" alt="Time-lapse of the community kitting line" width="300"><br>
+  <sub>Time-lapse of the kitting line: each person adds one part, and a complete kit comes out at the end.</sub>
+</p>
+
 | The line in action | Factory-style setup |
 |---|---|
 | ![Volunteers around the table packing kits](docs/story/09-kitting-line.jpg) | ![Wider view of the kitting tables](docs/story/10-kitting-line-wide.jpg) |
 
-## 5. Soldering the badges
+The result was a box full of ready-to-build kits. Each bag holds a PCB, two LEDs, the coin-cell holder, a CR2032 and an instruction card:
 
-At the soldering station, the kits turned into working badges: two LEDs on the front, the coin-cell holder on the back, a CR2032 in, and the badge lights up.
+<p align="center"><img src="docs/story/14-finished-kits.jpg" alt="Box full of finished badge kits in zip bags" width="420"></p>
+
+## 5. Assembling the badges at the Carnival
+
+At the Carnival, people brought their kits to the soldering station and assembled their own badges: two LEDs on the front, the coin-cell holder on the back, a CR2032 in, and the badge lights up. For many it was their first time soldering.
+
+<p align="center">
+  <img src="docs/story/soldering-at-carnival.gif" alt="People assembling their badges at the Carnival soldering station" width="300"><br>
+  <sub>Badge assembly at the Carnival soldering station (sped up).</sub>
+</p>
 
 | | | |
 |---|---|---|
@@ -78,8 +92,8 @@ At the soldering station, the kits turned into working badges: two LEDs on the f
 | Design | Schematic and PCB in EasyEDA (Dec 2025) |
 | Verify | 1:1 paper printout to check board, cell and holder size |
 | Fabricate | Rush order of **300 PCBs** from Lion Circuits |
-| Kit | Community, factory-style kitting line at TinkerSpace |
-| Build | Badges soldered and powered up with a CR2032 |
+| Kit | Community, factory-style kitting line at TinkerSpace: 300 complete kits |
+| Build | Attendees assembled their badges at the Carnival soldering station |
 
 ## Lessons for the next badge
 

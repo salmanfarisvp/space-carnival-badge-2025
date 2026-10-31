@@ -4,7 +4,7 @@ The official PCB badge for the **2025 TinkerSpace Carnival**, celebrating **thre
 
 It's a small, 40 × 40 mm art badge powered by a coin cell. A CR2032 on the back drives two colour-cycling LEDs on the front, set into the Space Carnival artwork.
 
-**300 badges** were fabricated and kitted together with the community. Read how it came together in **[STORY.md](STORY.md)**: the design, the paper fit check, the rush order and the factory-style kitting line.
+**300 badges** were fabricated, kitted together with the community, and assembled by attendees at the Carnival. Read how it came together in **[STORY.md](STORY.md)**: the design, the paper fit check, the rush order and the factory-style kitting line.
 
 <p align="center"><img src="docs/story/06-pcb-with-cell.jpg" alt="Fabricated badge with CR2032" width="320"></p>
 
