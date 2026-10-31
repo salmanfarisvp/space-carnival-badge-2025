@@ -62,7 +62,7 @@ This badge was designed for that event, as a wearable keepsake and a small, frie
 | Power | 1 × CR2032 (3 V lithium coin cell) |
 | Revision | v0.1 (2025). No power switch: remove the cell to turn it off. See [lessons learned](STORY.md#lessons-learned) |
 | Quantity made | 300 (255 ordered, 300 delivered) |
-| Fabricated by | [Lion Circuits](https://www.lioncircuits.com) (rush order) |
+| Fabricated by | [Lion Circuits](https://www.lioncircuits.com) (rush order: placed 9 Dec 2025, delivered 20 Dec 2025) |
 | Cost | ≈ ₹52 per badge; ₹15,462 total ([breakdown](STORY.md#6-what-it-cost-and-who-sponsored-it)) |
 | Sponsors | PCBs by [TinkerHub](https://tinkerhub.org), components by [MakerGram](https://makergram.com) |
 | EDA tool | EasyEDA Standard |

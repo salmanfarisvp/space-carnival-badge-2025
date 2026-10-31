@@ -29,7 +29,7 @@ It's the cheapest prototype there is, and it catches the most expensive mistakes
 
 ## 3. Rush order from Lion Circuits
 
-With the size confirmed, we placed a **rush order for 255 PCBs** with [Lion Circuits](https://www.lioncircuits.com), an Indian PCB fab in Bengaluru, so the boards would arrive in time for the Carnival. Lion Circuits delivered **300 boards**. The PCBs were sponsored by **TinkerHub** (see [what it cost](#6-what-it-cost-and-who-sponsored-it)).
+With the size confirmed, on **9 December 2025** we placed a **rush order for 255 PCBs** with [Lion Circuits](https://www.lioncircuits.com), an Indian PCB fab in Bengaluru, so the boards would arrive in time for the Carnival. The boards arrived on **20 December 2025**, just 11 days later, and Lion Circuits delivered **300 boards**. The PCBs were sponsored by **TinkerHub** (see [what it cost](#6-what-it-cost-and-who-sponsored-it)).
 
 | Delivery | Unboxing |
 |---|---|
@@ -89,9 +89,10 @@ At the Carnival, people brought their kits to the soldering station and assemble
 
 | Step | What happened |
 |---|---|
-| Design | Schematic and PCB in EasyEDA (Dec 2025) |
+| Design | Schematic and PCB in EasyEDA (early Dec 2025) |
 | Verify | 1:1 paper printout to check board, cell and holder size |
-| Fabricate | Rush order of 255 PCBs from Lion Circuits; **300 delivered** (invoiced 17 Dec 2025) |
+| Order | **9 Dec 2025**: rush order of 255 PCBs placed with Lion Circuits |
+| Delivery | **20 Dec 2025**: **300 boards** delivered, 11 days after ordering |
 | Kit | Community, factory-style kitting line at TinkerSpace: 300 complete kits |
 | Build | Attendees assembled their badges at the Carnival soldering station |
 | Cost | ₹15,462 in total: PCBs ₹11,790 (TinkerHub), parts ₹3,672 (MakerGram) |
