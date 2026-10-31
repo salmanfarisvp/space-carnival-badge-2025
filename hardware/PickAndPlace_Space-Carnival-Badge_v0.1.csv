@@ -1,0 +1,4 @@
+Designator,Footprint,Mid X,Mid Y,Ref X,Ref Y,Pad X,Pad Y,Layer,Rotation,Comment
+"BT1","BAT-TH_BS-2-1","32.39mm","95.63mm","32.39mm","95.63mm","25.44mm","102.83mm","B","44","CR2032-BS-2-1"
+"D1","LED-TH_BD5.8-P2.54-FD","14.86mm","108.97mm","14.86mm","108.97mm","13.59mm","108.97mm","T","0","RGB LED"
+"D2","LED-TH_BD5.8-P2.54-FD","45.97mm","77.98mm","45.97mm","77.98mm","47.24mm","77.98mm","T","180","RGB LED"
