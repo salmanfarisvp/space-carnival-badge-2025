@@ -47,7 +47,7 @@ The badge carries TinkerSpace's spirit on its back: **"be kind. be curious."**
 
 ## About the Carnival
 
-The [**TinkerSpace Carnival**](https://tinkerhub.substack.com/p/tinkerspace-carnival) (also called the *Space Carnival*) is TinkerSpace's yearly anniversary celebration. It's a community festival of demos, workshops, builds, music and people who make things. Each edition marks another year of the space being open. The 2025 edition celebrates **three years of TinkerSpace**, which is printed on the back of this badge.
+The [**TinkerSpace Carnival**](https://tinkerhub.substack.com/p/tinkerspace-carnival) (also called the *Space Carnival*) is TinkerSpace's yearly anniversary celebration. It's a community festival of demos, workshops, builds, music and people who make things. Each edition marks another year of the space being open. The [2025 edition](https://tinkerhub.org/events/SIE69TMDOS/space-carnival) ran on **20–21 December 2025** and celebrated **three years of TinkerSpace**, which is printed on the back of this badge.
 
 This badge was designed for that event, as a wearable keepsake and a small, friendly intro to electronics: drop in a coin cell and it lights up.
 
@@ -65,7 +65,7 @@ This badge was designed for that event, as a wearable keepsake and a small, frie
 | Revision | v0.1 (2025). No power switch, because the community is always on ([why](STORY.md#why-theres-no-off-switch)); remove the cell to turn it off |
 | Quantity made | 300 (255 ordered, 300 delivered) |
 | Fabricated by | [Lion Circuits](https://www.lioncircuits.com) (rush order: placed 9 Dec 2025, delivered 20 Dec 2025) |
-| Cost | ≈ ₹52 per badge; ₹15,462 total ([breakdown](STORY.md#6-what-it-cost-and-who-sponsored-it)) |
+| Cost | ≈ ₹52 per badge; ₹15,642 total ([breakdown](STORY.md#6-what-it-cost-and-who-sponsored-it)) |
 | Sponsors | PCBs by [TinkerHub](https://tinkerhub.org), components by [MakerGram](https://makergram.com) |
 | EDA tool | EasyEDA Standard |
 
@@ -86,6 +86,8 @@ The circuit is deliberately minimal:
 | D1, D2 | 2 | PARALIGHT L5T47UW5C-AHV, RGB LED | LED-TH 5 mm (BD5.8, P2.54) | [C2981452](https://www.lcsc.com/product-detail/C2981452.html) |
 | BT1 | 1 | QIJEY BS-2-1, CR2032 holder | BAT-TH_BS-2-1 | [C70376](https://www.lcsc.com/product-detail/C70376.html) |
 | n/a | 1 | CR2032 coin cell | n/a | n/a |
+
+> The LCSC part numbers come from the EasyEDA library and were used for the **design only**. All the parts for the 300 badges were **bought locally** as equivalent parts: any 5 mm 2-pin colour-cycling LED and any 20 mm CR2032 through-hole holder with the same footprint will work.
 
 **What we actually bought** for 300 badges: CR2032 cells from RX Electronics (Kochi) at ₹5.80 each, coin-cell holders from [FlyRobo](https://www.flyrobo.in) at ₹3.04, and LEDs from New Digital Electronics (Nilambur) at ₹2. That's ₹12.84 in parts per badge. See the [cost breakdown](STORY.md#6-what-it-cost-and-who-sponsored-it).
 
@@ -114,6 +116,8 @@ The circuit is deliberately minimal:
 5. Write your name on the **Maker** strip. You're officially a Maker now!
 6. Thread a lanyard through the hole and wear it.
 
+> ⚠️ **Coin-cell safety:** keep CR2032 cells and finished badges away from small children. Swallowing a coin cell can cause serious internal burns within hours. If you think a cell has been swallowed, get medical help immediately.
+
 > **Open and hackable:** the LEDs don't have to go on the front. People soldered them on the other side, at angles, or however they liked. Make the badge your own. ([story](STORY.md#open-and-hackable))
 
 ## Design files
@@ -132,7 +136,7 @@ hardware/
     └── PCB_Space-Carnival-Badge_v0.1.json       # EasyEDA Standard source
 ```
 
-- **To order boards:** upload the Gerber zip to any PCB fab. Use 2 layers, 1.6 mm FR-4, a 40 × 40 mm board, blue solder mask and white silkscreen to match the original.
+- **To order boards:** upload the Gerber zip to any PCB fab. *Note:* these Gerbers were re-exported after the schematic clean-up. Copper, traces and artwork are identical to the fabricated v0.1 boards; only the component labels on the silkscreen differ (`D1`/`D2`/`BT1` instead of `1`/`2`/`BAT`). Use 2 layers, 1.6 mm FR-4, a 40 × 40 mm board, blue solder mask and white silkscreen to match the original.
 - **To edit the design:** in [EasyEDA Standard](https://easyeda.com/editor), go to *File → Open → EasyEDA Source* and open the JSON files.
 - The original project lives in EasyEDA as **Space-PCB-Badge v0.1** (`Sheet_1` + `PCB_Space-PCB-Badgev0.1`).
 - The images in `docs/images/` were rendered directly from the EasyEDA design.
@@ -149,4 +153,6 @@ hardware/
 
 ## License
 
-Released under the [MIT License](LICENSE).
+The design files and documentation are released under the [MIT License](LICENSE).
+
+The TinkerSpace, TinkerHub and MakerGram names and logos on the board are used with permission: the badge was made for TinkerSpace and TinkerHub, and the designer is a co-founder of the MakerGram community. They belong to their respective communities and aren't covered by the MIT License.

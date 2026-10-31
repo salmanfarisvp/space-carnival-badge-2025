@@ -23,13 +23,13 @@ Before spending money on boards, we printed both sides of the PCB **1:1 on paper
 - the CR2032 and its holder fit inside the outline,
 - the LEDs, the lanyard hole and the artwork didn't collide.
 
-It's the cheapest prototype there is, and it catches the most expensive mistakes.
+It's the cheapest prototype there is, and it catches the most expensive mistakes. The printout in the photo is stamped **9 December 2025**: we paper-checked the board that morning and placed the PCB order the same day.
 
 ![1:1 paper printout of both sides with a coin cell placed on it](docs/story/01-paper-fit-check.jpg)
 
 ## 3. Rush order from Lion Circuits
 
-With the size confirmed, on **9 December 2025** we placed a **rush order for 255 PCBs** with [Lion Circuits](https://www.lioncircuits.com), an Indian PCB fab in Bengaluru, so the boards would arrive in time for the Carnival. The boards arrived on **20 December 2025**, just 11 days later, and Lion Circuits delivered **300 boards**. The PCBs were sponsored by **TinkerHub** (see [what it cost](#6-what-it-cost-and-who-sponsored-it)).
+With the size confirmed, on **9 December 2025** we placed a **rush order for 255 PCBs** with [Lion Circuits](https://www.lioncircuits.com), an Indian PCB fab in Bengaluru, so the boards would arrive in time for the Carnival. The boards arrived on **20 December 2025**, just 11 days later and on the **opening day of the Carnival** itself. Lion Circuits delivered **300 boards**. The PCBs were sponsored by **TinkerHub** (see [what it cost](#6-what-it-cost-and-who-sponsored-it)).
 
 | Delivery | Unboxing |
 |---|---|
@@ -68,7 +68,7 @@ The result was a box full of ready-to-build kits. Each bag holds a PCB, two LEDs
 
 ## 5. Assembling the badges at the Carnival
 
-At the Carnival, people brought their kits to the soldering station and assembled their own badges: two LEDs on the front, the coin-cell holder on the back, a CR2032 in, and the badge lights up. For many it was their first time soldering.
+The [Space Carnival](https://tinkerhub.org/events/SIE69TMDOS/space-carnival) ran on **20–21 December 2025** (9 AM–6 PM) at TinkerSpace. At the Carnival, people brought their kits to the soldering station and assembled their own badges: two LEDs on the front, the coin-cell holder on the back, a CR2032 in, and the badge lights up. For many it was their first time soldering.
 
 <p align="center">
   <img src="docs/story/soldering-at-carnival.gif" alt="People assembling their badges at the Carnival soldering station" width="300"><br>
@@ -99,18 +99,6 @@ The coin cell sits right behind the **TinkerSpace** artwork, so TinkerSpace is t
 
 ---
 
-## Timeline at a glance
-
-| Step | What happened |
-|---|---|
-| Design | Schematic and PCB in EasyEDA (early Dec 2025) |
-| Verify | 1:1 paper printout to check board, cell and holder size |
-| Order | **9 Dec 2025**: rush order of 255 PCBs placed with Lion Circuits |
-| Delivery | **20 Dec 2025**: **300 boards** delivered, 11 days after ordering |
-| Kit | Community, factory-style kitting line at TinkerSpace: 300 complete kits |
-| Build | Attendees assembled their badges at the Carnival soldering station |
-| Cost | ₹15,462 in total: PCBs ₹11,790 (TinkerHub), parts ₹3,672 (MakerGram) |
-
 ## 6. What it cost, and who sponsored it
 
 The **PCBs were sponsored by [TinkerHub](https://tinkerhub.org)**, and the **components were sponsored by [MakerGram](https://makergram.com)**.
@@ -137,18 +125,32 @@ We ordered **255 boards** as a rush order, and Lion Circuits delivered **300**.
 |---|---|---:|---:|---:|
 | CR2032 coin cell | RX Electronics, Kochi | 300 | 5.80 | 1,740.00 |
 | CR2032/CR2025 coin-cell holder | [FlyRobo](https://www.flyrobo.in) | 300 | 3.04 | 912.00 |
-| 5 mm colour-cycling RGB LED | New Digital Electronics, Nilambur (local shop) | 510 | 2.00 | 1,020.00 |
-| **Total** | | | | **₹3,672.00** |
+| 5 mm colour-cycling RGB LED | New Digital Electronics, Nilambur (local shop) | 600 | 2.00 | 1,200.00 |
+| **Total** | | | | **₹3,852.00** |
 
 ### Totals
 
 | | Amount (₹) |
 |---|---:|
 | PCBs (TinkerHub) | 11,790.00 |
-| Components (MakerGram) | 3,672.00 |
-| **Grand total** | **₹15,462.00** |
+| Components (MakerGram) | 3,852.00 |
+| **Grand total** | **₹15,642.00** |
 
 That works out to about **₹39 per board** (₹11,790 over the 300 boards delivered) plus **₹12.84 in parts per badge** (cell ₹5.80, holder ₹3.04, 2 × LED ₹2). That's roughly **₹52 per badge**.
+
+---
+
+## Timeline at a glance
+
+| Step | What happened |
+|---|---|
+| Design | Schematic and PCB in EasyEDA (early Dec 2025) |
+| Verify | **9 Dec 2025**: 1:1 paper printout to check board, cell and holder size |
+| Order | **9 Dec 2025**: rush order of 255 PCBs placed with Lion Circuits |
+| Delivery | **20 Dec 2025**: **300 boards** delivered, 11 days after ordering and on the Carnival's opening day |
+| Kit | Community, factory-style kitting line at TinkerSpace: 300 complete kits |
+| Build | **20–21 Dec 2025**: attendees assembled their badges at the Carnival soldering station |
+| Cost | ₹15,642 in total: PCBs ₹11,790 (TinkerHub), parts ₹3,852 (MakerGram) |
 
 ---
 
