@@ -29,7 +29,7 @@ It's the cheapest prototype there is, and it catches the most expensive mistakes
 
 ## 3. Rush order from Lion Circuits
 
-With the size confirmed, we placed a **rush order for 300 PCBs** with [Lion Circuits](https://www.lioncircuits.com), an Indian PCB fab, so the boards would arrive in time for the Carnival.
+With the size confirmed, we placed a **rush order for 255 PCBs** with [Lion Circuits](https://www.lioncircuits.com), an Indian PCB fab in Bengaluru, so the boards would arrive in time for the Carnival. Lion Circuits delivered **300 boards**. The PCBs were sponsored by **TinkerHub** (see [what it cost](#6-what-it-cost-and-who-sponsored-it)).
 
 | Delivery | Unboxing |
 |---|---|
@@ -41,7 +41,7 @@ The boards arrived blue with white silkscreen, just as designed:
 |---|---|---|
 | ![Bare PCB front](docs/story/04-bare-pcb-front.jpg) | ![Bare PCB back](docs/story/05-bare-pcb-back.jpg) | ![PCB back with CR2032 holder and cell](docs/story/06-pcb-with-cell.jpg) |
 
-The CR2032 coin cells were sourced in bulk alongside the boards:
+The parts were sponsored by **MakerGram**: CR2032 cells, coin-cell holders from FlyRobo, and LEDs from New Digital Electronics, a local electronics shop in Nilambur. Here are the CR2032 cells:
 
 <img src="docs/story/07-cr2032-cells.jpg" alt="Boxes and strips of CR2032 coin cells" width="360">
 
@@ -91,9 +91,51 @@ At the Carnival, people brought their kits to the soldering station and assemble
 |---|---|
 | Design | Schematic and PCB in EasyEDA (Dec 2025) |
 | Verify | 1:1 paper printout to check board, cell and holder size |
-| Fabricate | Rush order of **300 PCBs** from Lion Circuits |
+| Fabricate | Rush order of 255 PCBs from Lion Circuits; **300 delivered** (invoiced 17 Dec 2025) |
 | Kit | Community, factory-style kitting line at TinkerSpace: 300 complete kits |
 | Build | Attendees assembled their badges at the Carnival soldering station |
+| Cost | ₹15,462 in total: PCBs ₹11,790 (TinkerHub), parts ₹3,672 (MakerGram) |
+
+## 6. What it cost, and who sponsored it
+
+The **PCBs were sponsored by [TinkerHub](https://tinkerhub.org)**, and the **components were sponsored by [MakerGram](https://makergram.com)**.
+
+### PCBs: Lion Circuits (sponsored by TinkerHub)
+
+We ordered **255 boards** as a rush order, and Lion Circuits delivered **300**.
+
+| Item | Qty | Rate (₹) | Amount (₹) |
+|---|---:|---:|---:|
+| PCB fabrication (*TinkerSpace-SpaceCarnival-Badge-v01*) | 255 | 28.23 | 7,197.89 |
+| Fabrication NRE charges | 1 | 2,200.00 | 2,200.00 |
+| Outward shipping | 1 | 593.22 | 593.22 |
+| **Subtotal** | | | **9,991.11** |
+| IGST 18% | | | 1,798.40 |
+| Rounding | | | 0.49 |
+| **Total** | | | **₹11,790.00** |
+
+<sub>Lion Circuits invoice LCY2B526AD404140, dated 17 Dec 2025.</sub>
+
+### Components (sponsored by MakerGram)
+
+| Part | Source | Qty | Rate (₹) | Amount (₹) |
+|---|---|---:|---:|---:|
+| CR2032 coin cell | | 300 | 5.80 | 1,740.00 |
+| CR2032/CR2025 coin-cell holder | [FlyRobo](https://www.flyrobo.in) | 300 | 3.04 | 912.00 |
+| 5 mm colour-cycling RGB LED | New Digital Electronics, Nilambur (local shop) | 510 | 2.00 | 1,020.00 |
+| **Total** | | | | **₹3,672.00** |
+
+### Totals
+
+| | Amount (₹) |
+|---|---:|
+| PCBs (TinkerHub) | 11,790.00 |
+| Components (MakerGram) | 3,672.00 |
+| **Grand total** | **₹15,462.00** |
+
+That works out to about **₹39 per board** (₹11,790 over the 300 boards delivered) plus **₹12.84 in parts per badge** (cell ₹5.80, holder ₹3.04, 2 × LED ₹2). That's roughly **₹52 per badge**.
+
+---
 
 ## Lessons for the next badge
 

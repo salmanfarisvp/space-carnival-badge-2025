@@ -61,8 +61,10 @@ This badge was designed for that event, as a wearable keepsake and a small, frie
 | Trace width | 1.0 mm |
 | Power | 1 × CR2032 (3 V lithium coin cell) |
 | Revision | v0.1 (2025) |
-| Quantity made | 300 |
+| Quantity made | 300 (255 ordered, 300 delivered) |
 | Fabricated by | [Lion Circuits](https://www.lioncircuits.com) (rush order) |
+| Cost | ≈ ₹52 per badge; ₹15,462 total ([breakdown](STORY.md#6-what-it-cost-and-who-sponsored-it)) |
+| Sponsors | PCBs by [TinkerHub](https://tinkerhub.org), components by [MakerGram](https://makergram.com) |
 | EDA tool | EasyEDA Standard |
 
 ### Schematic
@@ -82,6 +84,8 @@ The circuit is deliberately minimal:
 | D1, D2 | 2 | PARALIGHT L5T47UW5C-AHV, RGB LED | LED-TH 5 mm (BD5.8, P2.54) | [C2981452](https://www.lcsc.com/product-detail/C2981452.html) |
 | BT1 | 1 | QIJEY BS-2-1, CR2032 holder | BAT-TH_BS-2-1 | [C70376](https://www.lcsc.com/product-detail/C70376.html) |
 | n/a | 1 | CR2032 coin cell | n/a | n/a |
+
+**What we actually bought** for 300 badges: CR2032 cells at ₹5.80 each, coin-cell holders from [FlyRobo](https://www.flyrobo.in) at ₹3.04, and LEDs from New Digital Electronics (Nilambur) at ₹2. That's ₹12.84 in parts per badge. See the [cost breakdown](STORY.md#6-what-it-cost-and-who-sponsored-it).
 
 > The schematic was cleaned up after layout: designators were renamed to D1/D2/BT1 and the nets are named `VBAT` and `GND`. These changes were pushed to the PCB with *Update PCB*. The placement, routing and artwork were not changed.
 
@@ -133,7 +137,8 @@ hardware/
 - Badge design: Salman Faris (`0xSalFar`)
 - Made for the TinkerSpace community, Kochi
 - Kitted by TinkerSpace community volunteers (see [STORY.md](STORY.md))
-- PCBs fabricated by [Lion Circuits](https://www.lioncircuits.com)
+- PCBs fabricated by [Lion Circuits](https://www.lioncircuits.com), **sponsored by [TinkerHub](https://tinkerhub.org)**
+- Components **sponsored by [MakerGram](https://makergram.com)**: holders from [FlyRobo](https://www.flyrobo.in), LEDs from New Digital Electronics, Nilambur
 - Logos on the board belong to their respective communities (TinkerHub, TinkerSpace, MakerGram)
 
 ## License
