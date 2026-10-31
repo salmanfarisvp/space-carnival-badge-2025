@@ -60,7 +60,7 @@ This badge was designed for that event, as a wearable keepsake and a small, frie
 | Lanyard hole | Ø 5.0 mm, top corner |
 | Trace width | 1.0 mm |
 | Power | 1 × CR2032 (3 V lithium coin cell) |
-| Revision | v0.1 (2025). No power switch: remove the cell to turn it off. See [lessons learned](STORY.md#lessons-learned) |
+| Revision | v0.1 (2025). No power switch, because the community is always on ([why](STORY.md#why-theres-no-off-switch)); remove the cell to turn it off |
 | Quantity made | 300 (255 ordered, 300 delivered) |
 | Fabricated by | [Lion Circuits](https://www.lioncircuits.com) (rush order: placed 9 Dec 2025, delivered 20 Dec 2025) |
 | Cost | ≈ ₹52 per badge; ₹15,462 total ([breakdown](STORY.md#6-what-it-cost-and-who-sponsored-it)) |
@@ -96,7 +96,7 @@ The circuit is deliberately minimal:
 **Back (bottom silkscreen):**
 - "be kind. be curious." with the TinkerHub mark
 - MakerGram logo
-- A **"Maker"** write-on block: a solid silkscreen strip for writing your name
+- A **"Maker"** write-on block: a solid silkscreen strip for writing your name. Many people soldered for the first time on this badge, so once it's built you're officially a Maker and the badge is your certificate ([story](STORY.md#your-badge-is-your-maker-certificate))
 - "Celebrating three years of TinkerSpace"
 - Revision stamp `Rev v0.1 — 2025` and designer handle `0xSalFar`
 - Coin-cell holder outline with `+` / `−` markings
@@ -109,7 +109,10 @@ The circuit is deliberately minimal:
 2. Solder the **BS-2-1 coin-cell holder** on the **bottom** side.
 3. Trim the leads flush on the back so they don't scratch clothing.
 4. Insert a CR2032 following the `+` marking on the holder. Both LEDs should start cycling colours.
-5. Thread a lanyard through the hole and wear it.
+5. Write your name on the **Maker** strip. You're officially a Maker now!
+6. Thread a lanyard through the hole and wear it.
+
+> **Open and hackable:** the LEDs don't have to go on the front. People soldered them on the other side, at angles, or however they liked. Make the badge your own. ([story](STORY.md#open-and-hackable))
 
 ## Design files
 

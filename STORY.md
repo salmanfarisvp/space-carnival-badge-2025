@@ -83,6 +83,24 @@ At the Carnival, people brought their kits to the soldering station and assemble
 |---|---|---|
 | ![Soldering a badge at the station](docs/story/11-soldering-1.jpg) | ![Soldering a badge with helping hands](docs/story/12-soldering-2.jpg) | ![Building a badge at the Carnival soldering table](docs/story/13-soldering-3.jpg) |
 
+### Your badge is your Maker certificate
+
+On the back of the badge there's a blank **"Maker"** strip, and it's there on purpose.
+
+A lot of people made their **first-ever solder joint** on this badge: school and college students, and community members from completely different fields who had never held a soldering iron before. We wanted to acknowledge that moment. Once you've soldered your badge, you're **officially a Maker**, and the badge is your certificate. That's why there's a space to write your name on it.
+
+### Open and hackable
+
+There's no "right" way to build it. The design puts the LEDs on the front, but we saw people solder them on the **other side**, at different angles, or however they liked, and that's absolutely fine. The badge is about creativity and making it your own, so it's **open and hackable** by design.
+
+### Why there's no off switch
+
+You'll notice there's no power switch. Here's the official reason. 😄
+
+The coin cell sits right behind the **TinkerSpace** artwork, so TinkerSpace is the **powerhouse**. The two LEDs are the **people and their ideas**. The space and the community power them, and that power is never meant to be switched off. **TinkerSpace and its community are always on.**
+
+<sub>(It's definitely, absolutely *not* because a switch would have blown the budget. 😉)</sub>
+
 ---
 
 ## Timeline at a glance
@@ -150,7 +168,7 @@ The schedule was tight, so the top priority was simple: **get the badge designed
 
 ### What we missed, and would do next time
 
-- **No power switch.** There's no button or switch, so once a cell is in, the LEDs stay on until the battery drains. The only way to turn the badge off is to pop the cell out. Next revision: add a small slide switch or a tactile button.
+- **No power switch.** The community is always on ([see why](#why-theres-no-off-switch) 😄), but practically, once a cell is in, the LEDs run until the battery drains, and the only way to turn the badge off is to pop the cell out. A small slide switch or a tactile button would be a nice addition in the next revision.
 - **No panelization.** The boards were ordered as single 40 × 40 mm pieces. Panelizing them, with several badges per panel joined by V-cuts or mouse-bites, would have lowered the per-board cost and made kitting and handling faster.
 - **Plan earlier.** Ordering earlier would have avoided the rush order and left time for a proper prototype round before the full run.
 
