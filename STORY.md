@@ -124,8 +124,6 @@ We ordered **255 boards** as a rush order, and Lion Circuits delivered **300**.
 | Rounding | | | 0.49 |
 | **Total** | | | **₹11,790.00** |
 
-<sub>Lion Circuits invoice LCY2B526AD404140, dated 17 Dec 2025.</sub>
-
 ### Components (sponsored by MakerGram)
 
 | Part | Source | Qty | Rate (₹) | Amount (₹) |
