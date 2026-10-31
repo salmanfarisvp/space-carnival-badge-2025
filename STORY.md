@@ -41,7 +41,7 @@ The boards arrived blue with white silkscreen, just as designed:
 |---|---|---|
 | ![Bare PCB front](docs/story/04-bare-pcb-front.jpg) | ![Bare PCB back](docs/story/05-bare-pcb-back.jpg) | ![PCB back with CR2032 holder and cell](docs/story/06-pcb-with-cell.jpg) |
 
-The parts were sponsored by **MakerGram**: CR2032 cells, coin-cell holders from FlyRobo, and LEDs from New Digital Electronics, a local electronics shop in Nilambur. Here are the CR2032 cells:
+The parts were sponsored by **MakerGram**: CR2032 cells from RX Electronics, Kochi, coin-cell holders from FlyRobo, and LEDs from New Digital Electronics, a local electronics shop in Nilambur. Here are the CR2032 cells:
 
 <img src="docs/story/07-cr2032-cells.jpg" alt="Boxes and strips of CR2032 coin cells" width="520">
 
@@ -135,7 +135,7 @@ We ordered **255 boards** as a rush order, and Lion Circuits delivered **300**.
 
 | Part | Source | Qty | Rate (₹) | Amount (₹) |
 |---|---|---:|---:|---:|
-| CR2032 coin cell | | 300 | 5.80 | 1,740.00 |
+| CR2032 coin cell | RX Electronics, Kochi | 300 | 5.80 | 1,740.00 |
 | CR2032/CR2025 coin-cell holder | [FlyRobo](https://www.flyrobo.in) | 300 | 3.04 | 912.00 |
 | 5 mm colour-cycling RGB LED | New Digital Electronics, Nilambur (local shop) | 510 | 2.00 | 1,020.00 |
 | **Total** | | | | **₹3,672.00** |

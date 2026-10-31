@@ -87,7 +87,7 @@ The circuit is deliberately minimal:
 | BT1 | 1 | QIJEY BS-2-1, CR2032 holder | BAT-TH_BS-2-1 | [C70376](https://www.lcsc.com/product-detail/C70376.html) |
 | n/a | 1 | CR2032 coin cell | n/a | n/a |
 
-**What we actually bought** for 300 badges: CR2032 cells at ₹5.80 each, coin-cell holders from [FlyRobo](https://www.flyrobo.in) at ₹3.04, and LEDs from New Digital Electronics (Nilambur) at ₹2. That's ₹12.84 in parts per badge. See the [cost breakdown](STORY.md#6-what-it-cost-and-who-sponsored-it).
+**What we actually bought** for 300 badges: CR2032 cells from RX Electronics (Kochi) at ₹5.80 each, coin-cell holders from [FlyRobo](https://www.flyrobo.in) at ₹3.04, and LEDs from New Digital Electronics (Nilambur) at ₹2. That's ₹12.84 in parts per badge. See the [cost breakdown](STORY.md#6-what-it-cost-and-who-sponsored-it).
 
 > The schematic was cleaned up after layout: designators were renamed to D1/D2/BT1 and the nets are named `VBAT` and `GND`. These changes were pushed to the PCB with *Update PCB*. The placement, routing and artwork were not changed.
 
@@ -144,7 +144,7 @@ hardware/
 - Thanks to all the TinkerSpace community members who helped and motivated this project (see [STORY.md](STORY.md#thank-you))
 - Kitted by TinkerSpace community volunteers (see [STORY.md](STORY.md))
 - PCBs fabricated by [Lion Circuits](https://www.lioncircuits.com), **sponsored by [TinkerHub](https://tinkerhub.org)**
-- Components **sponsored by [MakerGram](https://makergram.com)**: holders from [FlyRobo](https://www.flyrobo.in), LEDs from New Digital Electronics, Nilambur
+- Components **sponsored by [MakerGram](https://makergram.com)**: CR2032 cells from RX Electronics, Kochi, holders from [FlyRobo](https://www.flyrobo.in), LEDs from New Digital Electronics, Nilambur
 - Logos on the board belong to their respective communities (TinkerHub, TinkerSpace, MakerGram)
 
 ## License
