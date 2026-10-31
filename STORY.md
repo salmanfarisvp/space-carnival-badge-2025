@@ -59,7 +59,7 @@ It was faster, it was more fun, and everyone who helped had a hand in every badg
 
 <p align="center">
   <img src="docs/story/kitting-time-lapse.gif" alt="Time-lapse of the community kitting line" width="300"><br>
-  <sub>Time-lapse of the kitting line: each person adds one part, and a complete kit comes out at the end.</sub>
+  <sub>Time-lapse of the kitting line: each person adds one part, and a complete kit comes out at the end. <a href="docs/story/kitting-time-lapse.mp4">Watch the full-quality MP4</a></sub>
 </p>
 
 | The line in action | Factory-style setup |
@@ -76,7 +76,7 @@ At the Carnival, people brought their kits to the soldering station and assemble
 
 <p align="center">
   <img src="docs/story/soldering-at-carnival.gif" alt="People assembling their badges at the Carnival soldering station" width="300"><br>
-  <sub>Badge assembly at the Carnival soldering station (sped up).</sub>
+  <sub>Badge assembly at the Carnival soldering station (sped up). <a href="docs/story/soldering-at-carnival.mp4">Watch the full-quality MP4 with sound</a></sub>
 </p>
 
 | | | |
