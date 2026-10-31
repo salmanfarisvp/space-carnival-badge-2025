@@ -43,7 +43,7 @@ The boards arrived blue with white silkscreen, just as designed:
 
 The parts were sponsored by **MakerGram**: CR2032 cells, coin-cell holders from FlyRobo, and LEDs from New Digital Electronics, a local electronics shop in Nilambur. Here are the CR2032 cells:
 
-<img src="docs/story/07-cr2032-cells.jpg" alt="Boxes and strips of CR2032 coin cells" width="360">
+<img src="docs/story/07-cr2032-cells.jpg" alt="Boxes and strips of CR2032 coin cells" width="520">
 
 ## 4. Kitting with the community, factory style
 
