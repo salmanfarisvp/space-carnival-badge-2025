@@ -6,7 +6,9 @@ It's a small, 40 × 40 mm art badge powered by a coin cell. A CR2032 on the back
 
 **300 badges** were fabricated, kitted together with the community, and assembled by attendees at the Carnival. Read how it came together in **[STORY.md](STORY.md)**: the design, the paper fit check, the rush order and the factory-style kitting line.
 
-<p align="center"><img src="docs/story/06-pcb-with-cell.jpg" alt="Fabricated badge with CR2032" width="320"></p>
+| Front | Back | Back, with the cell |
+|---|---|---|
+| ![Fabricated badge, front](docs/story/04-bare-pcb-front.jpg) | ![Fabricated badge, back](docs/story/05-bare-pcb-back.jpg) | ![Fabricated badge, back with CR2032 holder and cell](docs/story/06-pcb-with-cell.jpg) |
 
 ## Documents
 
